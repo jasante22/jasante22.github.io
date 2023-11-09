@@ -6,17 +6,18 @@ html {
 /*Ensures that page reaches edge of the browser window*/
 body {
   margin: 0;
+  /*background-color: #f2e9e4;*/
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #22223B;
   text-align: left;
   /*min-width: 500px; removed so page is not wide for phones*/
 }
 
 header {
   font-family: 'Red Hat Display', sans-serif;
-  color: #fff;
+  color: #f2e9e4;
   min-height: 100vh;
   display: flex; /*flex makes it easier to center contents*/
 }
@@ -45,7 +46,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #22223B;
   padding: 10px 0px 10px 10px;
 }
 
@@ -63,7 +64,7 @@ img {
 }
 
 .bio {
-color: #ffffff;
+color: #f2e9e4;
 font-size: 24px;
 font-family: 'Red Hat Display', sans-serif;
 }
@@ -76,9 +77,9 @@ font-family: 'Red Hat Display', sans-serif;
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #f2e9e4;
   cursor: pointer;
-  color: #ffffff;
+  color: #f2e9e4;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -86,7 +87,7 @@ font-family: 'Red Hat Display', sans-serif;
 }
 
 .myButton:hover {
-	background-color:#e69708;
+	background-color:#4a4e69;
 }
 
 .myButton:active {
@@ -100,7 +101,8 @@ font-family: 'Red Hat Display', sans-serif;
 }
 
 .a {
-
+  color: #4a4e69;
+  text-decoration: none;
 }
 
 .c {
@@ -121,7 +123,7 @@ font-family: 'Red Hat Display', sans-serif;
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #4a4a4a;
+  color: #c9ada7;
   position: relative;
   bottom: 5px;
 }
@@ -133,9 +135,9 @@ font-family: 'Red Hat Display', sans-serif;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #4a4e69;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  border-top: 1px solid #4a4e69;
 }
 
 .logo {
