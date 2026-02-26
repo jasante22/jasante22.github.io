@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: First Year Experience
+site_url: https://jasante22.github.io/site
+theme:
+  name: material
