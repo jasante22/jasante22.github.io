@@ -17,3 +17,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 anything
+
+General Ideas:
+- Starting section titles of guide with "Getting..."
+- intro who we are and our credibility on this topic 
+  - WE OLD!!!!!!! and been there done that

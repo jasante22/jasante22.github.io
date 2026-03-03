@@ -2,3 +2,9 @@ site_name: First Year Experience
 site_url: https://jasante22.github.io/site
 theme:
   name: material
+nav:
+  - Home: 'index.md'
+  # - Dorms: ''
+  # - Clubs: ''
+  # - Dining: ''
+  - Getting Around: 'getting-around.md'
