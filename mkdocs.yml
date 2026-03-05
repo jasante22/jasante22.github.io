@@ -4,15 +4,13 @@ theme:
   name: material
 nav:
   - Home: 'index.md'
-  # - Dorms: ''
-  # - Clubs: ''
-  # - Dining: ''
+  - Dorms: 'getting-comfortable.md'
+  - Clubs: 'getting-involved.md'
+  - Dining: 'getting-food.md'
   - Getting Around: 'getting-around.md'
-
-  markdown_extensions:
+markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - tables
   - attr_list
-  

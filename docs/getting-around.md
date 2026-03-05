@@ -3,6 +3,10 @@ title: Getting Around VT's Campus
 description: User guide for transportation around VT
 
 ---
+# Getting Around
+
+*Learn how you can roll around campus.*
+
 What this page will detail:
 - Blacksburg Transport
   - Brief Description of BT App 
@@ -18,5 +22,18 @@ What this page will detail:
   - optimized routes for classes (turner wind tunnel)
   - cutting through buildings to avoid weather and just for a better route (i.e. torg --> library, derring --> drillfield, etc.)
 
-# Getting Around
+## BTransit
 
+### Where You Can Go
+
+## Journey to Roanoke: SmartWay Guide
+
+## Carpool Karaoke & Parking Pass Roulette
+
+**Free Parking**
+
+<!-- !!! note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa. -->
