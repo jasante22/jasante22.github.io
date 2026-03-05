@@ -2,3 +2,8 @@ site_name: First Year Experience
 site_url: https://jasante22.github.io/site
 theme:
   name: material
+
+  markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
