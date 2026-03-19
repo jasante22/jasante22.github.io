@@ -13,4 +13,22 @@ This page will include (stuff to expect while you're in the dorm):
 - Laundry etiquette and payment
 - Other things to know: fire drills, building hours, rules about breaks, proximity to dining
 - Future housing: Binding contracts (what dorms have them), staying in a dorm in 2nd year (not guaranteed but possible), look for off-campus housing pretty early (link off-campus options)
-- 
+
+# Getting Comfortable
+*A guide to navigating dorm life on campus*
+
+## Getting Into Your Dorm
+You've made it to campus, 
+
+
+## Getting Help
+
+## Roommate Agreement
+
+## Laundry
+
+
+## Other Things to Know
+
+
+## Future Housing
