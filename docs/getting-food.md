@@ -1,11 +1,21 @@
 # Getting Food
-*Your guide to dining on and off campus*
+*A guide to dining on and off campus*
+
+---
 
 If you're a hungry hokie, consider yourself in luck!
 
 With over 50 dining options and campus food ranked #3 in the United States, you'll have no shortage *amazing* places to eat.
 
-**Dining Hall** | **Resturants and Food Options**
+Whether you're looking for a full meal, a quick snack, or a coffee between classes, Virginia Tech offers a wide variety of dining choices across campus.
+
+**Below is a list of major dining locations and the food options available at each.**
+
+![Virginia Tech Chef With Lobster](image-1.png)
+
+## Dining Halls and Food Courts
+
+**Dining Hall** | **Resturants and Shops**
 --- | --- 
 **Dietrick Hall** | D2, Deet's Place, DX, Xpress Lane Market, and Futurebites
 **GLC** | Ducky's at Graduate Life Center
@@ -17,6 +27,8 @@ With over 50 dining options and campus food ranked #3 in the United States, you'
 **Johnston Student Center** | Viva Market
 **Goodwin Hall** | Viva Too
 **West End at Cochrane Hall** | Blend, Fighting Gobbler, JP's Chop House, Leaf and Ladle, Rosso, Seven70
+
+> Many dining halls feature Grab & Gobble, a grab-and-go option with prepackaged items such as sandwiches, salads, snacks, and drinks.
 
 ## Finding Dining On Campus
 
