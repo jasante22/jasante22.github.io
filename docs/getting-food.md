@@ -55,7 +55,7 @@ You can also view it on their website: [The 2026 Virginia Tech Dining Map](https
 
 
 
-Other things to inlcude: 
+Other things to include: 
 - GrubHub
 - How to pay for dining
   - Note the places that do NOT accept Hokie P funds (ex: Citrus cafe in library)
