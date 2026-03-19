@@ -1,11 +1,11 @@
-title: Getting Food (title TBD)
-description: Where to go when you're hungry
+# Getting Food
+*Your guide to dining on and off campus*
 
+If you're a hungry hokie, consider yourself in luck!
 
-This page will include:
-- Dining halls (note our high ranking for campus food, we're #3!)
+With over 50 dining options and campus food ranked #3 in the United States, you'll have no shortage *amazing* places to eat.
 
-**Dining Hall** | **Food Options**
+**Dining Hall** | **Resturants and Food Options**
 --- | --- 
 **Dietrick Hall** | D2, Deet's Place, DX, Xpress Lane Market, and Futurebites
 **GLC** | Ducky's at Graduate Life Center
@@ -18,9 +18,21 @@ This page will include:
 **Goodwin Hall** | Viva Too
 **West End at Cochrane Hall** | Blend, Fighting Gobbler, JP's Chop House, Leaf and Ladle, Rosso, Seven70
 
+## Finding Dining On Campus
+
+But, you might be wondering...
+
+Where do you even start?
+
+After all, Campus is *huge*, and with so many dining options, it can be hard to know where everything is.
+
+Fortunately, Dining Services provides an official dining map each year to help you find your way:
+
+![2026 Virginia Tech Dining Map](image.png)
+
+You can also view it on their website: [The 2026 Virginia Tech Dining Map](https://dining.vt.edu/dining_centers.html)
 
 
-  - Include restaurants within them
 - GrubHub
 - How to pay for dining
   - Note the places that do NOT accept Hokie P funds (ex: Citrus cafe in library)
