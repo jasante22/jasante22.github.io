@@ -44,7 +44,18 @@ Fortunately, Dining Services provides an official dining map each year to help y
 
 You can also view it on their website: [The 2026 Virginia Tech Dining Map](https://dining.vt.edu/dining_centers.html)
 
+## Paying for Dining
 
+
+
+
+
+
+
+
+
+
+Other things to inlcude: 
 - GrubHub
 - How to pay for dining
   - Note the places that do NOT accept Hokie P funds (ex: Citrus cafe in library)
