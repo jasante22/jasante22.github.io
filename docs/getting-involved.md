@@ -25,6 +25,12 @@ What this page will detail:
     - check their insta pages
 - tips to STAY involved in clubs
   - don't get discouraged and set reminders for yourself
+  - getting a job 
 ---
 
 # Getting Involved
+Leaving your hometown for college can be hard and stressful, especially when you're surrounded by people you don't know! With so many new faces and so many opportunities at your fingertips, how do you find where you belong? The answer is...clubs!
+
+Clubs, sports, Greek life, and all the other extracurricular activities at Tech are wonderful options to find your niche. So...where do you start?
+
+## 

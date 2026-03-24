@@ -18,10 +18,19 @@ This page will include (stuff to expect while you're in the dorm):
 *A guide to navigating dorm life on campus*
 
 ## Getting Into Your Dorm
-You've made it to campus, 
+You'll quickly learn that one of your most important tools on campus is your Hokie Passport, known to seasoned VT students as your **Hokie P**.
 
+You'll use your Hokie P to get into your residence hall and dorm room, buy food at the dining halls, check in at campus events, and even verify your identity during exams.
+
+Most residence halls have several entrances, and these doors are locked to anyone who is not a resident of the respective hall. To gain entry, you'll have to scan your Hokie P on the card reader next to the door.
+
+The same is true when you get to your dorm room. To unlock your door, you'll scan your Hokie P against the electronic lock under the door handle and input your room's entry code, which you received when you moved in.
 
 ## Getting Help
+If you get locked out, don't be alarmed! On each floor of every residence hall, you have Student Leaders (SLs) to help you.
+
+
+
 
 ## Roommate Agreement
 

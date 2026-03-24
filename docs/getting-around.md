@@ -32,15 +32,22 @@ By downloading the BT application, you can see the bus routes, know when the nex
 
 The application is great for knowing which bus goes where, but is often "under maintenance". The bus tracking feature is a good feature when it's working, only having a latency of a few seconds to a minute. Regardless, it's best to arrive at bus stops early and take arrival times as estimates. All buses are wheelchair accessible, which is fantastic, but expect a packed bus around peak hours (8 am to 9 am, 3 pm to 5 pm, 7 pm to 9 pm).
 
+!!! tip
+
+    Quick aside.
+
 ### Where You Can Go
 
-Once you arrive on campus, you'll be eager to explore every place on campus. Here's a non exhaustive list of places you might want to checkout, that you can access with the bus system.
+Once you arrive on campus, you'll be eager to explore every place on campus. Here's a non exhaustive list of places you might want to checkout that you can access with the bus system.
 
-Locations | Bus Routes
+Key Locations | Bus Routes*
 --- | ---
-Kroger (UCB) | UCB, TCP, TCR
-Kroger (South Main) | SMS
+Kroger (UCB), CVS | UCB, TCP, TCR
+Kroger (South Main), Oasis, B&B Theatres | SMS
 Walmart (Christiansburg) | TTT
+Academic & Residential areas | HXP, CAS, BMR
+
+**BT bus routes tend to change each semester. Please check out the website or application for up to date information.*
 
 ## Journey to Roanoke: SmartWay Guide
 
@@ -48,8 +55,3 @@ Walmart (Christiansburg) | TTT
 
 **Free Parking**
 
-<!-- !!! note
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa. -->

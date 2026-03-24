@@ -50,7 +50,10 @@ Fortunately, Dining Services provides an official dining map each year to help y
 
 ![2026 Virginia Tech Dining Map](image.png)
 
-You can also view it on their website: [The 2026 Virginia Tech Dining Map](https://dining.vt.edu/dining_centers.html)
+You can also view it on their website: [The 2026 Virginia Tech Dining Map](https://dining.vt.edu/dining_centers.html).
+
+### Coffee
+on top of on campus dining, there are so many options off campus! Popular spotsdjkldndso
 
 ## Ordering
 
@@ -61,21 +64,19 @@ talk about grubhub here
 list meal plans, their prices, who accepts hokie p funds and who doesn't (ex: Citrus cafe in library)
 
 ### 2026 Meal Plan Offerings
-**Meal Plan** | **Price Per Semester** | **Dining Dollars** | **Meals Per Week**
+**Meal Plan** | **Price Per Semester** | **Flex Dollars** | **Meals Per Week**
 --- | --- | --- | ---|
-**Minor Flex Plan** | $1,559 | 
-**Major Flex Plan** | $2,934 |
-**Mega Flex Plan** | $3,147 |
-**Premium Flex Plan** | $3,368
+**Minor Flex Plan** | $1,559 | $624 | 5-6 Meals |
+**Major Flex Plan** | $2,934 | $1,062 | 10 Meals |
+**Mega Flex Plan** | $3,147 | $1,275 | 12 Meals |
+**Premium Flex Plan** | $3,368 | $1,496 | 14 Meals |
+> Note: The Minor Flex Plan is only for students living off-campus.
+
+Brain dump here Choosing a meal plan can feel like a pretty daunting task something something nobody wants to be without money for food with 6 weeks to go in the semester, and for many first-year students this is their first time something something. It's really important to remember that money can always be added to a students account, but it can't be taken out. The funds roll over from fall-spring sem, but not spring-fall, so if you have a ridic amount of money at the end of semester, you wont get it back.
 
 
 
 
 
-## Coffee Close to Campus
 
-
-## Downtown Dining 
-
-
-## Working for Dining Services
+### Coffee Close to Campus
