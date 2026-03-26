@@ -32,9 +32,9 @@ Whether you're looking for a full meal, a quick snack, or a coffee between class
 
 ### Special Menus
 
+Dining Services regularly hosts special events and limited-time menus throughout the semester.
 
 
-Dining Services regularly hosts special events and limited-time menus throughout the semester. 
 
 Check the [Dining Services](https://gobblerconnect.vt.edu/organization/dining) website for current events and updates!
 
