@@ -34,7 +34,7 @@ The application is great for knowing which bus goes where, but is often "under m
 
 !!! tip
 
-    Quick aside.
+    Quick aside-the bus does not stop at every stop! In order to get off at a stop that is not a time-check, you can either pull the yellow strings found near the bus windows or press the red button on the hand rail nearest to the bus door.
 
 ### Where You Can Go
 
@@ -45,11 +45,12 @@ Key Locations | Bus Routes*
 Kroger (UCB), CVS | UCB, TCP, TCR
 Kroger (South Main), Oasis, B&B Theatres | SMS
 Walmart (Christiansburg) | TTT
-Academic & Residential areas | HXP, CAS, BMR
+Academic & On-Campus Residential areas | HXP, CAS, BMR
 
 **BT bus routes tend to change each semester. Please check out the website or application for up to date information.*
 
 ## Journey to Roanoke: SmartWay Guide
+
 
 ## Carpool Karaoke & Parking Pass Roulette
 
