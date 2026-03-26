@@ -32,7 +32,7 @@ By downloading the BT application, you can see the bus routes, know when the nex
 
 The application is great for knowing which bus goes where, but is often "under maintenance". The bus tracking feature is a good feature when it's working, only having a latency of a few seconds to a minute. Regardless, it's best to arrive at bus stops early and take arrival times as estimates. All buses are wheelchair accessible, which is fantastic, but expect a packed bus around peak hours (8 am to 9 am, 3 pm to 5 pm, 7 pm to 9 pm).
 
-!!! tip
+??? tip "Getting Off the Bus"
 
     Quick aside-the bus does not stop at every stop! In order to get off at a stop that is not a time-check, you can either pull the yellow strings found near the bus windows or press the red button on the hand rail nearest to the bus door.
 
@@ -50,6 +50,12 @@ Academic & On-Campus Residential areas | HXP, CAS, BMR
 **BT bus routes tend to change each semester. Please check out the website or application for up to date information.*
 
 ## Journey to Roanoke: SmartWay Guide
+
+For anyone seeking bigger malls, needing to catch a flight back home, or head up to Northern Virginia, Roanoke is your best option. But how do you get to Roanoke without a car and limited cash? The [Smart Way Bus](https://www.valleymetro.com/services/smart-way-services) is your go-to.
+
+Smart Way Bus takes riders into the greater Valley Metro Area with stops at Roanoke Airport and Third Station, an 8 minute walk from where the Amtrak runs through. Just make sure you have twenty dollars notes in your wallet to pay for the fare bothways. 
+
+
 
 
 ## Carpool Karaoke & Parking Pass Roulette

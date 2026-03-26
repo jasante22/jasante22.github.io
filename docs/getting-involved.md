@@ -33,4 +33,5 @@ Leaving your hometown for college can be hard and stressful, especially when you
 
 Clubs, sports, Greek life, and all the other extracurricular activities at Tech are wonderful options to find your niche. So...where do you start?
 
-## 
+## Finding Student Organizations
+There are approximately 800 student orgs on campus to choose from. While this is great for variety, it can be overwhelming to pick from that large of a pool. 

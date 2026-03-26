@@ -75,8 +75,3 @@ list meal plans, their prices, who accepts hokie p funds and who doesn't (ex: Ci
 Brain dump here Choosing a meal plan can feel like a pretty daunting task something something nobody wants to be without money for food with 6 weeks to go in the semester, and for many first-year students this is their first time something something. It's really important to remember that money can always be added to a students account, but it can't be taken out. The funds roll over from fall-spring sem, but not spring-fall, so if you have a ridic amount of money at the end of semester, you wont get it back.
 
 
-
-
-
-
-### Coffee Close to Campus

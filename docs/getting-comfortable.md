@@ -33,6 +33,7 @@ If you get locked out, don't be alarmed! On each floor of every residence hall, 
 
 
 ## Roommate Agreement
+Whether you picked your roommate or decided to try your luck with a "random," problems can arise in such close quarters.
 
 ## Laundry
 
