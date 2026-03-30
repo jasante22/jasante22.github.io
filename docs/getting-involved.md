@@ -33,5 +33,31 @@ Leaving your hometown for college can be hard and stressful, especially when you
 
 Clubs, sports, Greek life, and all the other extracurricular activities at Tech are wonderful options to find your niche. So...where do you start?
 
-## Finding Student Organizations
-There are approximately 800 student orgs on campus to choose from. While this is great for variety, it can be overwhelming to pick from that large of a pool. 
+## GobblerConnect
+There are over 1,000 student orgs on campus to choose from. While this is great for variety, it can be overwhelming to pick from that large of a pool. 
+
+A good place to start looking at what’s offered is a website called GobblerConnect. GobblerConnect is the ultimate hub for all things campus involvement. The repository hosts a page for almost all of VT's clubs on its platform. 
+
+(pic of Gobblerconnect)
+
+You can filter clubs based on their topic (such as engineering, arts, service, etc.) which will help pare down the pages of options.
+
+GobblerConnect includes a “contact” section on each organization’s page. Following an org of your interest’s Instagram page is the best way to keep up with them as orgs typically post their schedules and upcoming events on their socials.
+
+There’s always a chance you might miss an organization you’d have loved to join scrolling through GobblerConnect. Luckily, GobblerConnect is not the only place to find VT orgs.
+
+## Gobblerfest
+The biggest (and best) event that VT holds is Gobblerfest. Gobblerfest typically takes place at the end of the first week of school and is where almost all the clubs at Tech gather to promote themselves and attract new members, like you!
+
+(pic of Gobblerfest)
+
+Gobblerfest is good for those who aren’t quite sure what they want to join exactly; sometimes, it’s best to just throw the dart and see where it lands! 
+
+Clubs will be spread out across the drillfield and separated according to their “neighborhood”. Neighborhoods are defined by the majority characteristics of the orgs inhabiting that neighborhood, such as a neighborhood for arts-related clubs and a neighborhood for engineering-related clubs. 
+
+Virginia Tech will post a map for you to locate which neighborhoods you want to visit. Clubs will typically also post their Gobblerfest location on their Instagrams, so if you’re interested in a specific club or org, be sure to check their socials to know where to stop by! 
+
+Gobblerfest is where most orgs give out information and sign-up sheets to interested students, so it’s important to attend to get on the contact list of your club picks!
+
+## How to Stay Involved
+
