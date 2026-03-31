@@ -22,8 +22,8 @@ Whether you're looking for a full meal, a quick snack, or a coffee between class
 **Hokie Grill at Owens Hall** | Chick-Fil-A, Choolaah, Dunkin' Donuts, Pizza Hut | Food Court, Fast Casual
 **Owens Food Court at Owens Hall** | Ciotola, Dish, Franks, Freshens, Garden, Pop's, Sweets, Tazon, Variabowl, Wan | Food Court, Café, Grab-and-Go
 **Perry Place at Hitt Hall** | AMP Coffee Bar, Addison's Provisions, Chick-Fil-A, Fresh and Feta, Rambutan, Smoke, Solarex, Trax, Veloce | Food Court, Café, Grab-and-Go
-**Squires Food Court at Squires Student Center** | Burger '37, Corner '24 | 
-**Turner Place at Lavery Hall** | 1872 Fire Grille, Atomic Pizzeria, Bruegger's Bagels, Dolce e Caffe, Jamba, Origami, Qdoba, Soup Garden | 
+**Squires Food Court at Squires Student Center** | Burger '37, Corner '24 | Fast Casual, Café, Grab-and-Go
+**Turner Place at Lavery Hall** | 1872 Fire Grille, Atomic Pizzeria, Bruegger's Bagels, Dolce e Caffe, Jamba, Origami, Qdoba, Soup Garden | Fast Casual, Café, Grab-and-Go 
 **Johnston Student Center** | Viva Market | Market, Grab-and-Go
 **Goodwin Hall** | Viva Too | Market, Grab-and-Go
 **West End at Cochrane Hall** | Blend, Fighting Gobbler, JP's Chop House, Leaf and Ladle, Rosso, Seven70 | Food Court, Café, Market, Specialty Dining
@@ -34,11 +34,9 @@ Whether you're looking for a full meal, a quick snack, or a coffee between class
 
 Dining Services regularly hosts special events and limited-time menus throughout the semester.
 
-
-
 Check the [Dining Services](https://gobblerconnect.vt.edu/organization/dining) website for current events and updates!
 
-## Finding Dining On Campus
+## Finding Dining
 
 But, you might be wondering...
 
@@ -53,26 +51,40 @@ Fortunately, Dining Services provides an official dining map each year to help y
 You can also view it on their website: [The 2026 Virginia Tech Dining Map](https://dining.vt.edu/dining_centers.html).
 
 ### Coffee
-on top of on campus dining, there are so many options off campus! Popular spotsdjkldndso
+
+Being a college student involves drinking copious amounts of coffee, so here is where to find some of the best spots on and off campus!
+
+##### On Campus 
+
+- AMP Coffee Bar 
+- Dolce e Caffè
+- Deet’s Place 
+- Dunkin’ 
+- Starbucks 
+  
+##### Off Campus
+
+- Bollo's 
+- Coffeeholics 
+- Mill Mountain 
+- Lighthouse  
 
 ## Ordering
 
 Most dining halls at Virginia Tech utilize Grubhub for mobile ordering. 
 
-You can order ahead, skip the line, and pick up your food when it’s ready. This is especially helpful during busy times.
+You can order ahead, skip the line, and pick up your food when it’s ready. This is especially helpful during lunch and dinner rushes. 
 
 Getting started is simple:
 
 - Download the Grubhub app 
-- Go to My Grubhub → Settings → Campus Dining 
+- Go to My Grubhub, Settings, Campus Dining 
 - Confirm your campus (Virginia Tech) 
 - Start browsing menus and ordering 
 
 > If you have any food allergies or dietary restrictions, you can note that in the order instructions section before placing an order.
 
 ## Paying for Dining
-
-list meal plans, their prices, who accepts hokie p funds and who doesn't (ex: Citrus cafe in library)
 
 ### 2026 Meal Plan Offerings
 **Meal Plan** | **Price Per Semester** | **Flex Dollars** | **Meals Per Week**
@@ -83,6 +95,18 @@ list meal plans, their prices, who accepts hokie p funds and who doesn't (ex: Ci
 **Premium Flex Plan** | $3,368 | $1,496 | 14 Meals |
 > Note: The Minor Flex Plan is only for students living off-campus.
 
-Brain dump here Choosing a meal plan can feel like a pretty daunting task something something nobody wants to be without money for food with 6 weeks to go in the semester, and for many first-year students this is their first time something something. It's really important to remember that money can always be added to a students account, but it can't be taken out. The funds roll over from fall-spring sem, but not spring-fall, so if you have a ridic amount of money at the end of semester, you wont get it back.
+Choosing a meal plan can feel like a pretty daunting task, and for a lot of first-year students this is their first time actually managing their own food money. 
+
+Nobody wants to be without money for food with like 6 weeks to go in the semester, but at the same time you also don’t want to end with way too much left over. 
+
+Here are a few important things to keep in mind: 
+
+- Money can always be added, but it can’t be taken out.
+- Funds roll over from fall to spring.
+- Funds do not roll over from spring to fall.
+
+So, if you have a ridiculous amount of money left on your account at the end of the year, you won’t get it back.
+
+Choosing a meal plan really comes down to: how often you eat, how much you snack, and how often you go off campus.
 
 
