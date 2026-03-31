@@ -6,7 +6,7 @@
 Virginia Tech houses a whopping 10,000 students in its many [residence halls](https://housing.vt.edu/experience/YourResidenceHall/HallListing.html). For most students, dorm living is an unforgettable part of the college experience, offering new Hokies a built-in community and everything campus has to offer within walking distance. To make the most of your experience, it's important to know how to navigate your first few weeks in Blacksburg.
 
 ## Using Your Hokie Passport
-You'll quickly learn that one of your most important tools on campus is your [Hokie Passport](https://www.hokiepassport.vt.edu/), known to seasoned VT students as your **Hokie P**. If your Hokie P isn't activated, visit the [Student Services building](https://www.vt.edu/about/locations/buildings/student_services_building.html).
+You'll quickly learn that one of your most important tools on campus is your [Hokie Passport](https://www.hokiepassport.vt.edu/), known to seasoned VT students as your **Hokie P**. If your Hokie P isn't working, visit the [Student Services building](https://www.vt.edu/about/locations/buildings/student_services_building.html).
 
 You'll use your Hokie P to get into your residence hall and dorm room, buy food at the dining halls, check in at campus events, and even verify your identity during exams.
 
