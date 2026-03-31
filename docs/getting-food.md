@@ -57,7 +57,18 @@ on top of on campus dining, there are so many options off campus! Popular spotsd
 
 ## Ordering
 
-talk about grubhub here
+Most dining halls at Virginia Tech utilize Grubhub for mobile ordering. 
+
+You can order ahead, skip the line, and pick up your food when it’s ready. This is especially helpful during busy times.
+
+Getting started is simple:
+
+- Download the Grubhub app 
+- Go to My Grubhub → Settings → Campus Dining 
+- Confirm your campus (Virginia Tech) 
+- Start browsing menus and ordering 
+
+> If you have any food allergies or dietary restrictions, you can note that in the order instructions section before placing an order.
 
 ## Paying for Dining
 
