@@ -9,7 +9,7 @@ With over 50 dining options and campus food ranked #3 in the United States, you'
 
 Whether you're looking for a full meal, a quick snack, or a coffee between classes, Virginia Tech offers a wide variety of dining choices across campus.
 
-**Below is a list of major dining locations and the food options available at each.**
+**Below is a list of major dining locations and the food options available at each:**
 
 ![Virginia Tech Chef With Lobster](image-1.png)
 
