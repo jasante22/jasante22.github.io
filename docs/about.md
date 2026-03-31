@@ -5,7 +5,7 @@ description: Learn more about the authors writing this User Guide
 ---
 # About Us
 
-*Learn more about the people writing the guide.*
+*Learn more about the people writing this guide.*
 
 ### About Isabelle
 

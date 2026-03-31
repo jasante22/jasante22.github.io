@@ -7,23 +7,23 @@ description: User guide for transportation around VT
 
 *Learn how you can roll around campus.*
 
-## BTransit
+## Blacksburg Transit
 
 This local bus system will either be your greatest friend or a tolerable enemy; hopefully, by the end of this guide, you'll feel like a professional using the bus.
 
-Blacksburg Transit (BT) serves as free bus transportation around Virginia Tech campus, Christiansburg, and parts of Montgomery County ([Ridebt.org](https://ridebt.org/)).
+Blacksburg Transit (BT) serves as free bus transportation around Virginia Tech's campus, Christiansburg, and parts of Montgomery County ([Ridebt.org](https://ridebt.org/)).
 
-By downloading the BT application, you can see the bus routes, know when the next bus is coming, and enjoy wheelchair-accessible ride around campus.
+By downloading the BT application, you can see the bus routes, know when the next bus is coming, and enjoy wheelchair-accessible rides around campus.
 
-The BT app provides rough-estimates of when buses arrives, but it should not be relied upon. Make sure to arrive at bus stops early, but expect a packed bus around peak hours (8 am to 9 am, 3 pm to 5 pm, 7 pm to 9 pm).
+The BT app provides rough-estimates of when buses arrive, but it should not be relied upon. Make sure to arrive at bus stops early, but expect a packed bus around peak hours (8 am to 9 am, 3 pm to 5 pm, 7 pm to 9 pm).
 
-??? tip "Getting Off the Bus"
+
 
     The bus does not stop at every stop! In order to get off, you can either pull the yellow strings found near the bus windows or press the red button on the hand rail nearest to the bus door.
 
 ### Where You Can Go
 
-Once you arrive on campus, you'll be eager to explore every place on campus. Here's a non exhaustive list of places you might want to checkout that you can access with the bus system.
+Once you arrive, you'll be eager to explore every place on campus. Here's a non exhaustive list of places you might want to check out that you can access with the bus system.
 
 Key Locations | Bus Routes*
 --- | ---
@@ -58,6 +58,6 @@ Perry Street and North End Center Parking Garages, Ag Quad Lot, and Squires Lot 
 
 **How much is a parking permit and where can I get one?**
 
-You can expect an annual parking permit to be around 400 to 500 dollars. Permits can be bought online on Parking Services's website or in person at their office. Make sure to bring your Hokie Passport and vehicle registration if you go in-person!
+You can expect an annual parking permit to be around 400 to 500 dollars. Permits can be bought online on the Parking Services website or in person at their office. Make sure to bring your Hokie Passport and vehicle registration if you go in-person!
 
-For further information, check out Parking Services's [parking page](https://parking.vt.edu/parking.html) and their [permit page](https://parking.vt.edu/permits.html).
+For further information, check out Parking Services' [parking page](https://parking.vt.edu/parking.html) and their [permit page](https://parking.vt.edu/permits.html).

@@ -5,7 +5,7 @@
 
 If you're a hungry Hokie, consider yourself in luck!
 
-With over 50 dining options and campus food ranked #3 in the United States, you'll have no shortage *amazing* places to eat.
+With over 50 dining options and campus food ranked #3 in the United States, you'll have no shortage of *amazing* places to eat.
 
 Whether you're looking for a full meal, a quick snack, or a coffee between classes, Virginia Tech offers a wide variety of dining choices across campus.
 
@@ -42,7 +42,7 @@ But, you might be wondering...
 
 Where do you even start?
 
-After all, Campus is *huge*, and with so many dining options, it can be hard to know where everything is.
+After all, campus is *huge*, and with so many dining options, it can be hard to know where everything is.
 
 Fortunately, Dining Services provides an official dining map each year to help you find your way:
 
@@ -97,7 +97,7 @@ Getting started is simple:
 
 Choosing a meal plan can feel like a pretty daunting task, and for a lot of first-year students this is their first time actually managing their own food money. 
 
-Nobody wants to be without money for food with like 6 weeks to go in the semester, but at the same time you also don’t want to end with way too much left over. 
+Nobody wants to be without money for food with 6 weeks to go in the semester, but at the same time you also don’t want to end with way too much left over. 
 
 Here are a few important things to keep in mind: 
 
@@ -108,5 +108,3 @@ Here are a few important things to keep in mind:
 So, if you have a ridiculous amount of money left on your account at the end of the year, you won’t get it back.
 
 Choosing a meal plan really comes down to: how often you eat, how much you snack, and how often you go off campus.
-
-
