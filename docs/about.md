@@ -9,7 +9,7 @@ description: Learn more about the authors writing this User Guide
 
 ### About Isabelle
 
-Junior graduating Spring 2027 with dual-Bachelor's degrees in Professional & Technical Writing and Psychology. Isabelle loves to bake, read, watch movies (and talk about them), and travel. In her freshman year, Isabelle lived in West Ambler Johnston Hall, where she go to experience the thrills of traditional-style dorm living. All her friends were spread out across different dorms on campus, so she knows lots about Virginia Tech's residence halls!
+Junior graduating Spring 2027 with dual-Bachelor's degrees in Professional & Technical Writing and Psychology. Isabelle loves to bake, read, watch movies (and talk about them), and travel. In her freshman year, Isabelle lived in West Ambler Johnston Hall, where she got to experience the thrills of traditional-style dorm living. All her friends were spread out across different dorms on campus, so she knows lots about Virginia Tech's residence halls!
 
 ### About Ava 
 
