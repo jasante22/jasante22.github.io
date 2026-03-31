@@ -15,7 +15,7 @@ A good place to start looking at what’s offered is a website called [GobblerCo
 
 ![The home page of the GobblerConnect website.](image-4(gobblerconnect).png)
 
-> You can filter clubs based on their topic (such as engineering, arts, service, etc.) to pare down the pages of options.
+> You can filter clubs based on their topic (such as engineering, arts, service, etc.) to parse down the pages of options.
 
 GobblerConnect includes a “contact” section on each organization’s page. Following an org of your interest’s Instagram page is the best way to keep up with their schedules and upcoming events.
 
@@ -26,11 +26,10 @@ The biggest *(and best)* event that VT holds is [Gobblerfest](https://campuslife
 
 ![Tents spread out across the Virginia Tech Drillfield with thousands of people bustling about.](image-3(gobblerfest).jpg)
 
-Gobblerfest is good for those who aren’t quite sure what they want to join exactly; sometimes, it’s best to just throw the dart and see where it lands! Clubs will be spread out across the drillfield and separated according to their activity [“neighborhood”](https://www.instagram.com/p/CwnMBj5v7sK/).
+Gobblerfest is good for those who aren’t quite sure what they want to join; sometimes, it’s best to just throw the dart and see where it lands! Clubs will be spread out across the Drillfield and separated according to their activity [“neighborhood”](https://www.instagram.com/p/CwnMBj5v7sK/).
 
 Virginia Tech will post a map for you to locate which neighborhoods you want to visit. Clubs will also typically post their Gobblerfest location on their Instagrams to help guide interested students to their tables.
 
-!!! note  
     
     Gobblerfest is where most orgs give out information and sign-up sheets to interested students, so it’s important to attend to get on the contact list of your club picks!
 
