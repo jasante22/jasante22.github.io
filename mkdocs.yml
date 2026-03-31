@@ -7,7 +7,8 @@ nav:
   - Dorms: 'getting-comfortable.md'
   - Clubs: 'getting-involved.md'
   - Dining: 'getting-food.md'
-  - Getting Around: 'getting-around.md'
+  - Travel: 'getting-around.md'
+  - About: 'about.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
