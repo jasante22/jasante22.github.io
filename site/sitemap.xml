@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jasante22.github.io/site/</loc>
-         <lastmod>2026-02-26</lastmod>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://jasante22.github.io/site/about/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://jasante22.github.io/site/getting-around/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://jasante22.github.io/site/getting-comfortable/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://jasante22.github.io/site/getting-food/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://jasante22.github.io/site/getting-involved/</loc>
+         <lastmod>2026-04-01</lastmod>
     </url>
 </urlset>

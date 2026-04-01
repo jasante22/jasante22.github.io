@@ -3,12 +3,12 @@ site_url: https://jasante22.github.io/site
 theme:
   name: material
 nav:
-  - Home: 'index.md'
-  - Dorms: 'getting-comfortable.md'
-  - Clubs: 'getting-involved.md'
-  - Dining: 'getting-food.md'
-  - Travel: 'getting-around.md'
-  - About: 'about.md'
+  - Home: index.md
+  - Dorms: getting-comfortable.md
+  - Clubs: getting-involved.md
+  - Dining: getting-food.md
+  - Travel: getting-around.md
+  - About: about.md
 markdown_extensions:
   - admonition
   - pymdownx.details
