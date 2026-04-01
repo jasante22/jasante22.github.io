@@ -87,12 +87,14 @@ Getting started is simple:
 ## Paying for Dining
 
 ### 2026 Meal Plan Offerings
+
 **Meal Plan** | **Price Per Semester** | **Flex Dollars** | **Meals Per Week**
---- | --- | --- | ---|
+--- | --- | --- | --- |
 **Minor Flex Plan** | $1,559 | $624 | 5-6 Meals |
 **Major Flex Plan** | $2,934 | $1,062 | 10 Meals |
 **Mega Flex Plan** | $3,147 | $1,275 | 12 Meals |
 **Premium Flex Plan** | $3,368 | $1,496 | 14 Meals |
+
 !!! note
 
     The Minor Flex Plan is only for students living off-campus.

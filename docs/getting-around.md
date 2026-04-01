@@ -5,7 +5,7 @@ description: User guide for transportation around VT
 ---
 # Getting Around
 
-*Learn how you can roll around campus*
+*A guide to getting around campus*
 
 ## Blacksburg Transit
 

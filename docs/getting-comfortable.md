@@ -1,5 +1,5 @@
 # Getting Comfortable
-*Learn how to navigating dorm life*
+*A guide to navigating dorm life*
 
 ![Virginia Tech dorm](vtdorm.jpg)
 

@@ -4,7 +4,7 @@ description: All things to do with clubs, organizations, events, etc. and how to
 ---
 
 # Getting Involved
-*A guide to all things extracirricular*
+*A guide to all things extracurricular*
 
 Leaving your hometown for college can be hard and stressful, especially when you're surrounded by people you don't know! With so many new faces and so many opportunities at your fingertips, [how do you find where you belong](https://www.reddit.com/r/VirginiaTech/comments/1nn8wei/best_places_to_meet_peoplemake_friends_at_vt/)? The answer is...clubs!
 
