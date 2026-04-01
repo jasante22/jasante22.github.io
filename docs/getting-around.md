@@ -5,7 +5,7 @@ description: User guide for transportation around VT
 ---
 # Getting Around
 
-*Learn how you can roll around campus.*
+*Learn how you can roll around campus*
 
 ## Blacksburg Transit
 
@@ -17,7 +17,7 @@ By downloading the BT application, you can see the bus routes, know when the nex
 
 The BT app provides rough-estimates of when buses arrive, but it should not be relied upon. Make sure to arrive at bus stops early, but expect a packed bus around peak hours (8 am to 9 am, 3 pm to 5 pm, 7 pm to 9 pm).
 
-
+??? tip
 
     The bus does not stop at every stop! In order to get off, you can either pull the yellow strings found near the bus windows or press the red button on the hand rail nearest to the bus door.
 

@@ -4,6 +4,8 @@ description: All things to do with clubs, organizations, events, etc. and how to
 ---
 
 # Getting Involved
+*A guide to all things extracirricular*
+
 Leaving your hometown for college can be hard and stressful, especially when you're surrounded by people you don't know! With so many new faces and so many opportunities at your fingertips, [how do you find where you belong](https://www.reddit.com/r/VirginiaTech/comments/1nn8wei/best_places_to_meet_peoplemake_friends_at_vt/)? The answer is...clubs!
 
 [Clubs, sports, Greek life, and all the other extracurricular activities at Tech](https://campuslife.vt.edu/Student_Orgs.html) are wonderful options to find your niche. So...where do you start?
@@ -30,7 +32,8 @@ Gobblerfest is good for those who aren’t quite sure what they want to join; so
 
 Virginia Tech will post a map for you to locate which neighborhoods you want to visit. Clubs will also typically post their Gobblerfest location on their Instagrams to help guide interested students to their tables.
 
-    
+!!! note
+
     Gobblerfest is where most orgs give out information and sign-up sheets to interested students, so it’s important to attend to get on the contact list of your club picks!
 
 
