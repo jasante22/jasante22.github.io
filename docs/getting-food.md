@@ -93,7 +93,9 @@ Getting started is simple:
 **Major Flex Plan** | $2,934 | $1,062 | 10 Meals |
 **Mega Flex Plan** | $3,147 | $1,275 | 12 Meals |
 **Premium Flex Plan** | $3,368 | $1,496 | 14 Meals |
-> Note: The Minor Flex Plan is only for students living off-campus.
+!!! note
+
+    The Minor Flex Plan is only for students living off-campus.
 
 Choosing a meal plan can feel like a pretty daunting task, and for a lot of first-year students this is their first time actually managing their own food money. 
 
