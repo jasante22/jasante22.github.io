@@ -15,7 +15,7 @@ Whether you're looking for a full meal, a quick snack, or a coffee between class
 
 ## Dining Halls and Food Courts
 
-**Dining Hall** | **Resturants and Shops** | **Type**
+**Dining Hall** | **Restaurants and Shops** | **Type**
 --- | --- | ---
 **Dietrick Hall** | D2, Deet's Place, DX, Xpress Lane Market, and Futurebites | Buffet, Market, Grab-and-Go, Café
 **GLC** | Ducky's at Graduate Life Center | Specialty Drinks
