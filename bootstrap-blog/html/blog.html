@@ -8,44 +8,50 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Footer Bar</title>
+    <title>Blog Page</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../css/blog.css">
 </head>
 
-<body>
+<body class="bg-yellow">
+
     <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-        <div class="col-md-4 d-flex align-items-center">
-            <!-- <a href="/" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1" aria-label="Bootstrap">
-                <svg class="bi" width="30" height="24" aria-hidden="true">
-                    <use xlink:href="#bootstrap"></use>
-                </svg>
-            </a> -->
-            <span class="mx-4 mb-3 mb-md-0 text-body-secondary">© 2026 Joelle Asante</span>
+    <!--Header-->
+    <div id="nav-placeholder"></div>
+
+    <!--Top Section (Centered Round Image + Title)-->
+    <main>
+        <div>
+            <img src="../assets/personal_image.jpg" alt="">
+            <h1>Reviews & Recipes</h1>
+            <p>Made with love</p>
         </div>
-        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-            <li class="ms-3">
-                <a class="text-body-secondary" href="https://www.linkedin.com/in/joellesasante/" aria-label="LinkedIn">
-                    <i class="bi bi-linkedin"></i>
-                </a>
-            </li>
-            <li class="ms-3">
-                <a class="text-body-secondary" href="#" aria-label="GitHub">
-                    <i class="bi bi-github"></i>
-                </a>
-            </li>
-        </ul>
-    </footer>
+    </main>
+
+    <!--Further Information about me-->
+
+    <!--Footer-->
+    <div id="footer-placeholder"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
         crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#nav-placeholder").load("./components/navbar.html");
+            $("#footer-placeholder").load("./components/footer.html");
+        });
+    </script>
+
+
+
 </body>
 
 </html>

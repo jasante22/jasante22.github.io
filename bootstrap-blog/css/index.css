@@ -2,3 +2,22 @@
     background-color: rgb(255,249,176);
     color: rgb(75,40,20);
 }
+
+.card-border {
+    border-color: rgb(75,40,20);
+}
+
+.card.text-bg-chocolate {
+    color: rgb(255,249,176);
+    background-color: rgb(75,40,20);
+}
+
+.card.text-bg-custard {
+    color: rgb(75,40,20);
+    background-color: rgb(255,249,176);
+}
+
+.btn-chocolate {
+    background-color: rgb(75,40,20);
+    color: ;
+}
