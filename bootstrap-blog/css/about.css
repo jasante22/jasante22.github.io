@@ -2,3 +2,23 @@
     background-color: rgb(255,249,176);
     color: rgb(75,40,20);
 }
+
+.hero {
+    width: 100%;
+    /* max-width: 400px; */
+    height: 30vh;
+    overflow: hidden;
+}
+
+.hero img {
+    width: 100%;
+    /* max-width: 400px; */
+    height: 100vh;
+    object-fit: cover;
+}
+
+.about_photo img {
+    /* width: 50%; */
+    height: 50vh;
+    border-radius: 25px;
+}
