@@ -18,6 +18,14 @@
 }
 
 .btn-chocolate {
+    color: rgb(75,40,20);
+    background-color: rgb(255,249,176);
+    border-color: rgb(255,249,176);
+    padding: 0.75rem 0.375rem;
+}
+
+.btn-chocolate:hover {
+    color: rgb(255,249,176);
     background-color: rgb(75,40,20);
-    color: ;
+    border-color: rgb(75,40,20);;
 }

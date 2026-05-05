@@ -1,0 +1,11 @@
+footer {
+    color: rgb(106, 57, 0);
+}
+
+a {
+    color: rgb(106, 57, 0);
+}
+
+.border-top-custom {
+    border-top: 1px solid rgb(106, 57, 0);
+}
